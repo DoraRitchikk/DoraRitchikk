@@ -1,7 +1,7 @@
 ### Hi! 
-My name is Dora
-And I'm a Data Engineer!
-Nice to see you on my GitHub 👋
+### My name is Dora
+### And I'm a Data Engineer!
+### Nice to see you on my GitHub 👋
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/S9oNGC1E42VT2JRysv/giphy.gif" width="400"/>
 </div>
