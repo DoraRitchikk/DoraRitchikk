@@ -1,4 +1,7 @@
 ### Hi there 👋
+ <div id="header" align="center">
+  <img src="https://media.giphy.com/media/S9oNGC1E42VT2JRysv/giphy.gif/" width="100"/>
+</div>
 
 <!--
 **DoraRitchikk/DoraRitchikk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
