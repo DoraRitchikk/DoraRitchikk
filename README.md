@@ -6,10 +6,12 @@
   <img src="https://media.giphy.com/media/S9oNGC1E42VT2JRysv/giphy.gif" width="400"/>
 </div>
 
+
+<!--
 <div id="badges">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height = "60"/>
 </div>
-
+--Ю
 <!--
 **DoraRitchikk/DoraRitchikk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
