@@ -8,6 +8,6 @@ Stack :
 - Docker, Airflow, Jenkins
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilshat&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilshat&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DoraRitchikk&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DoraRitchikk&theme=solarized_dark)
 
 
